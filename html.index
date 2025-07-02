@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Erosão: Entenda o Fenômeno</title>
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+    <header>
+        <h1>Erosão: O Que Você Precisa Saber</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#introducao">Introdução</a></li>
+            <li><a href="#tipos">Tipos de Erosão</a></li>
+            <li><a href="#impactos">Impactos</a></li>
+            <li><a href="#prevencao">Prevenção</a></li>
+            <li><a href="#galeria">Galeria</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="introducao">
+            <h2>O Que é Erosão?</h2>
+            <p>A erosão é um processo natural de desgaste, transporte e deposição de solo e rochas pela ação de agentes como a água, o vento, o gelo e a gravidade...</p>
+            <img src="imagem-erosao-geral.jpg" alt="Exemplo de erosão">
+        </section>
+
+        <section id="tipos">
+            <h2>Principais Tipos de Erosão</h2>
+            <h3>Erosão Hídrica</h3>
+            <p>Causada pela água da chuva, rios e mares...</p>
+            <img src="imagem-erosao-hidrica.jpg" alt="Erosão pela água">
+            <h3>Erosão Eólica</h3>
+            <p>Causada pela ação do vento...</p>
+            <img src="imagem-erosao-eolica.jpg" alt="Erosão pelo vento">
+            </section>
+
+        <section id="impactos">
+            <h2>Impactos da Erosão</h2>
+            <p>A erosão pode ter sérias consequências para o meio ambiente e para a sociedade, como a perda de solo fértil, deslizamentos de terra, assoreamento de rios...</p>
+            <ul>
+                <li>Perda de fertilidade do solo</li>
+                <li>Deslizamentos e desabamentos</li>
+                <li>Assoreamento de rios</li>
+                </ul>
+        </section>
+
+        <section id="prevencao">
+            <h2>Como Prevenir a Erosão?</h2>
+            <p>Existem diversas medidas que podem ser adotadas para prevenir ou minimizar a erosão, como o plantio de vegetação, construção de terraços...</p>
+            <ul>
+                <li>Plantio de árvores e vegetação nativa</li>
+                <li>Construção de curvas de nível e terraços</li>
+                <li>Manejo adequado do solo</li>
+                </ul>
+        </section>
+
+        <section id="galeria">
+            <h2>Galeria de Imagens</h2>
+            <div class="galeria-container">
+                <img src="galeria-1.jpg" alt="Erosão grave">
+                <img src="galeria-2.jpg" alt="Área recuperada">
+                <img src="galeria-3.jpg" alt="Impacto da chuva">
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Projeto Erosão. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
